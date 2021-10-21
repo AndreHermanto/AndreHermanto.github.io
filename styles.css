@@ -1,0 +1,47 @@
+body {
+    background-color: whitesmoke;
+}
+
+#main-container{
+    border-style: solid;
+    font-size: x-large;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#lyric-container{
+    text-align: left;
+}
+
+#mika-photo{
+    width: 350px;
+    height: 200px;
+    float: right;
+}
+
+.color-container{
+    border-radius: 50%;
+    display: inline-block;
+    height: 150px;
+    width: 250px;
+    margin: 0 2em;
+    color: white;
+    padding: 100px 0 0 0;
+}
+
+#color-brown{
+    background-color: brown;
+}
+
+#color-blue{
+    background-color: blue;
+}
+
+#color-blue:hover{
+    background-color: purple;
+}
+
+#color-violet{
+    background-color: #61557f;
+}
